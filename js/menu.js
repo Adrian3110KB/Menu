@@ -45,6 +45,6 @@ s1+=`<li onclick="funcImg(${i+1})"> <a href="#">${arrMenu[i]}</a></li>`;
 
 function funcImg(n) {
     boxPicture.innerHTML=
-    `<img  onclick="boxPicture.innerHTML= ''"src="../images/${n}.jpg">`
+    `<img  onclick="boxPicture.innerHTML= ''"src="images/${n}.jpg">`
 
 }

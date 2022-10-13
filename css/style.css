@@ -1,0 +1,32 @@
+
+ul {
+    margin: 35px 0;
+    list-style: none;
+    display:flex;
+
+}
+
+a {
+    padding: 16px;
+    background: #43b0de;
+    margin: 2px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 15px;
+    transition: .3s;
+
+}
+
+
+p {
+    display: flex;
+    
+}
+
+img {
+
+    cursor: pointer;
+}
+/* a:hover {
+    background: #e88930;
+} */
